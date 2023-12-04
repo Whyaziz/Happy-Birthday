@@ -20,7 +20,7 @@ export default function Happy() {
                 <iframe
                     width="1000"
                     height="1000"
-                    src="https://www.youtube.com/embed/Gm-F5wJMIkc"
+                    src="https://www.youtube.com/embed/m2COdMxt-WY"
                     title="YouTube Video"
                     frameBorder="0"
                     allowFullScreen
